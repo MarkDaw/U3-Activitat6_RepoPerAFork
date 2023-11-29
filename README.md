@@ -45,6 +45,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila1 PC4:
+He modificat un métode per a que diga el meu nom en el fork del repositori públic.
 
 
 #### AlumneFila1 PC5:
